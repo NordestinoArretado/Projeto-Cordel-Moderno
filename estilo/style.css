@@ -100,6 +100,10 @@ footer {
     padding: 10px;
 }
 
+footer a:hover {
+    text-decoration: underline;
+}
+
 footer a {
     color: aqua;
     text-decoration: none;
